@@ -1,7 +1,11 @@
-# 💫 About Me:
+
+<h1 align="center">🚀 Welcome! I'm Wali Developer 🌟</h1>
+<h3 align="center">A Passionate Web Developer from Pakistan 🇵🇰</h3>
+<p align="center">
+<img src="https://github.com/faizankam/faizankam/blob/main/coding.gif" width="400">
+</p>
+
 🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning Some Programming Languages<br><br>👨‍💻 Some of my project are live on https://muhammad-wali47.github.io/portfolio<br><br>💬 Ask me about coding.<br><br>📫 Way to reach me https://www.instagram.com/iamwali_40 <br><br>⚡ Fun fact Headphones can increase the bacteria in your ears.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hBhgqj4Sqp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamwali_40) 
 
